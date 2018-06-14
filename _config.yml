@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ameet Deshpande"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Undergraduate, Computer Science and Engineering, Indian Institute of Technology Madras"
+  location         : "Chennai, India"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "cs15b001@smail.iitm.ac.in"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,11 +97,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ameet-deshpande-93b6b8110/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/7872066/ameet-deshpande"
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
