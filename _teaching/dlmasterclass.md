@@ -17,7 +17,7 @@ The following were the topics covered over a span of 1 month
 - Basics of Machine Learning [<span style="color:blue">[Slides]</span>](https://drive.google.com/open?id=14MRJleQh98riDF88z4zm_4mWuEIO4YFI)
 - Multi Layer Perceptrons [<span style="color:blue">[Slides]</span>](https://drive.google.com/file/d/0BxkBNdPqeM3GQUNJd29QeVVKQld3bnYwbjNheUt4Nl9FcDhJ/view)
 - Regularization and Optimization [<span style="color:blue">[Link 1]</span>](https://drive.google.com/file/d/1P5Hh5AhoaUZC0C7vgeG15-ebToSP6NyG/view) [<span style="color:blue">[Link 2]</span>](https://drive.google.com/file/d/1Yl2MAn6_Pok3hqwD8bw85C3YFRT5xGQf/view)
-- Convolutional Neural Networks [<span style="color:blue">[Slides]</span>](https://docs.google.com/presentation/d/1VibY06-gmV9Wq0mOACz038DBsVcHU_bICEA8LdWJ5Sw/edit#slide=id.p)
+- Convolutional Neural Networks [<span style="color:blue">[Slides]</span>](https://ameet-1997.github.io/files/CNN.pdf)
 - Word Vectors
 - Recurrent Neural Networks
 - Encoder-Decoder Models
