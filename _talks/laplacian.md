@@ -8,4 +8,4 @@ date: 2018-09-25
 location: "Chennai, India"
 ---
 
-Presented usefulness of Proto-Value Functions and the paper's laplacian framework for finding useful options [[Slides]](https://ameet-1997.github.io/files/LaplacianFramework.pdf)
+Presented usefulness of Proto-Value Functions and the paper's laplacian framework for finding useful options [<span style="color:blue">[Slides]</span>](https://ameet-1997.github.io/files/LaplacianFramework.pdf)
