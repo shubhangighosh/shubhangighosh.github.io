@@ -1,7 +1,7 @@
 ---
 title: 'Double Q-Learning'
 date: 2018-05-26
-permalink: /posts/2018/doubleqlearning
+permalink: /posts/doubleqlearning
 tags:
   - Reinforcement Learning
   - DQN
