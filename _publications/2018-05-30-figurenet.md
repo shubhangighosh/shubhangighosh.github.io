@@ -11,6 +11,8 @@ citation: 'Reddy, R., Ramesh, R., Deshpande, A., & Khapra, M. M. (2018). A Quest
 
 [Download paper here](http://ameet-1997.github.io/files/qaplots.pdf)
 
+[Link](https://www.humanizing-ai.com/) to homepage of Humanizing Artificial Intelligence Workshop, IJCAI
+
 ## Abstract
 
 Deep Learning has managed to push boundaries in
