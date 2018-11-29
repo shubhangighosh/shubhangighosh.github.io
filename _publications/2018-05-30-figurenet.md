@@ -1,42 +1,40 @@
 ---
-title: "A Question-Answering framework for plots using Deep learning"
+title: "A Meta-cognitive Recurrent Fuzzy Inference System
+with Memory Neurons (McRFIS-MN) and its Fast
+Learning Algorithm for Time Series Forecasting"
 collection: publications
-permalink: /publications/questionansweringplots
-excerpt: 'This paper details the approach which achieved state-of-the-art performance on [<span style="color:blue">FigureQA</span>](https://datasets.maluuba.com/FigureQA) Dataset'
-date: 2018-07-15
-venue: 'Humanizing Artificial Intelligence Workshop, IJCAI-18, Stockholm, Sweden'
-paperurl: 'https://arxiv.org/pdf/1806.04655.pdf'
-citation: 'Reddy, R., Ramesh, R., Deshpande, A., & Khapra, M. M. (2018). A Question-Answering framework for plots using Deep learning. arXiv preprint arXiv:1806.04655.'
+permalink: /publications/timeseriesforecasting
+excerpt: 'This paper proposes to introduce recurrence in fuzzy neural networks and training using the one-shot Project-Based Learning algorithm for faster prediction.'
+date: 2018-11-20
+venue: 'The 2018 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2018), Bangalore, India'
+#paperurl: 'https://arxiv.org/pdf/1806.04655.pdf'
+citation: 'Samanta, S., Ghosh, S., & Sundaram, S. (2018). A Meta-cognitive Recurrent Fuzzy Inference System with Memory Neurons (McRFIS-MN) and its Fast Learning Algorithm for Time Series Forecasting.'
 ---
 
-[Download paper here](http://ameet-1997.github.io/files/qaplots.pdf)
+[Download paper here](http://shubhangighosh.github.io/files/McRFIS-MN.pdf)
 
-[Link](https://www.humanizing-ai.com/) to homepage of Humanizing Artificial Intelligence Workshop, IJCAI
+[Link](http://ieee-ssci2018.org/) to homepage of The 2018 IEEE Symposium Series on Computational Intelligence, IEEE SSCI 2018
 
 ## Abstract
 
-Deep Learning has managed to push boundaries in
-a wide variety of tasks. One area of interest is to
-tackle problems in reasoning and understanding,
-in an aim to emulate human intelligence. In this
-work, we describe a deep learning model that addresses
-the reasoning task of question-answering
-on bar graphs and pie charts. We introduce a novel
-architecture that learns to identify various plot elements,
-quantify the represented values and determine
-a relative ordering of these statistical values.
-We test our model on the recently released FigureQA
-dataset, which provides images and accompanying
-questions, for bar graphs and pie charts,
-augmented with rich annotations. Our approach
-outperforms the state-of-the-art Relation Networks
-baseline and traditional CNN-LSTM models when
-evaluated on this dataset. Our model also has a considerably
-faster training time of approximately 2
-days on 1 GPU compared to the Relation Networks
-baseline which requires around two weeks to train
-on 4 GPUs.
-
+In this paper, a Meta-cognitive Recurrent Fuzzy
+Inference System is proposed where recurrence is brought using
+Memory type Neurons (McRFIS-MN) to retain the effect of all
+past instances, while the meta-cognition component is employed
+to control the learning process, by deciding what-to-learn, whento-learn
+and how-to-learn from the training data. The McRFISMN
+model has five layers, and Memory Neurons (MN) are
+employed only in the layers handling crisp values. The antecedent
+parameters are set randomly while only the consequent weights
+of the network are updated using a one-shot type projection
+based learning algorithm through time (PBLT) which makes the
+learning very fast. The performance evaluation of McRFIS-MN
+has been carried out using benchmark problems in the areas of
+nonlinear system identification and time-series forecasting. The
+results are evaluated against some of the most popular neural
+fuzzy methods and the obtained results indicate that McRFISMN
+performs better in terms of speed while achieving better or
+similar accuracy.
 <hr />
 
-Recommended citation: Reddy, R., Ramesh, R., Deshpande, A., & Khapra, M. M. (2018). A Question-Answering framework for plots using Deep learning. arXiv preprint arXiv:1806.04655.
+Recommended citation: Samanta, S., Ghosh, S., & Sundaram, S. (2018). A Meta-cognitive Recurrent Fuzzy Inference System with Memory Neurons (McRFIS-MN) and its Fast Learning Algorithm for Time Series Forecasting.
