@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ameet Deshpande"
+title                    : "Shubhangi Ghosh"
 title_separator          : "-"
-name                     : &name "Ameet Deshpande"
+name                     : &name "Shubhangi Ghosh"
 description              : &description "personal description"
-url                      : https://ameet-1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shubhangighosh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ameet-1997/ameet-1997.github.io"
+repository               : "shubhangighosh/shubhangighosh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ameet Deshpande"
+  name             : "Shubhangi Ghosh"
   avatar           : "IDCard.jpg"
-  bio              : "Undergraduate, Computer Science and Engineering, Indian Institute of Technology Madras"
+  bio              : "Undergraduate, Electrical Engineering, Indian Institute of Technology Madras"
   location         : "Chennai, India"
   employer         :
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "cs15b001@smail.iitm.ac.in"
+  email            : "shubhangisghosh@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,16 +92,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ameet-1997"
+  github           : "shubhangighosh"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "ameet-deshpande-93b6b8110"
+  #linkedin         : "ameet-deshpande-93b6b8110"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "7872066/ameet-deshpande"
+  #stackoverflow    : "7872066/ameet-deshpande"
   steam            :
   tumblr           :
   twitter          : 
