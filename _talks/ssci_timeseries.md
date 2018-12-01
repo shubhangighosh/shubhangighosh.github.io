@@ -1,4 +1,3 @@
-
 ---
 title: "Recurrence in Fuzzy Neural Networks and a faster training algorithm for Time Series forecasting"
 collection: talks
