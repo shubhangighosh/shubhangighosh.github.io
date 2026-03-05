@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://stat.columbia.edu/'> PhD student in Statistics, Columbia Univeristy</a>. 
+subtitle: <a href='https://stat.columbia.edu/'> PhD student in Statistics, Columbia University</a>. 
 
 
 profile:
@@ -34,5 +34,5 @@ I am a fourth-year PhD student at Columbia University, in the department of Stat
 - I am interested in asymtotic approximation of posterior distributions using the Laplace method.
 - I am also interested in asymptotic approximation of the influence function for data valuation problems.
 
-Previously, I previously obtained my B.Tech. in Electrical Engineering at [Indian Institute of Technology Madras]([url](https://www.ee.iitm.ac.in/)) where I worked on Natural Language Processing supervised by [Prof. Mitesh Khapra]([url](https://www.cse.iitm.ac.in/~miteshk/)). I also received my MSc. in Data Science at [ETH Zurich]([url](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/data-science.html)) where I worked on identifiable approaches to representation learning supervised by [Prof. Bernhard Scholkopf]([url](https://is.mpg.de/ei/person/bs)).
+I previously obtained my B.Tech. in Electrical Engineering at [Indian Institute of Technology Madras]([url](https://www.ee.iitm.ac.in/)) where I worked on Natural Language Processing supervised by [Prof. Mitesh Khapra]([url](https://www.cse.iitm.ac.in/~miteshk/)). I also received my MSc. in Data Science at [ETH Zurich]([url](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/data-science.html)) where I worked on identifiable approaches to representation learning supervised by [Prof. Bernhard Scholkopf]([url](https://is.mpg.de/ei/person/bs)).
 
