@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='https://stat.columbia.edu/'> PhD student in Statistics, Columbia Univeristy</a>. 
+nav: true
+nav_order: 1
 
 profile:
   align: right
