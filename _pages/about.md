@@ -29,7 +29,7 @@ latest_posts:
 I am a fourth-year PhD student at Columbia University, in the department of Statistics. I am very fortunate to be advised by [Prof. Arian Maleki]([url](https://sites.google.com/site/malekiarian/)) at Columbia University and [Prof. Haolei Weng]([url](https://haoleiweng.github.io/)) at Michigan State University. I am interested in high-dimensional statistics in an asymptotic setting. 
 
 
-- I primarily work on developing the minimax framework for statistical models upto sharp constants and higher order asymptotic expansions. I have worked on this problem for the sparse linear regression model. I am currently working on this direction for the task of Covariance estimation for Gaussian Matrices. 
+- I primarily work on developing the minimax framework for statistical models upto sharp constants and higher order asymptotic expansions. 
 - I am interested in asymtotic approximation of posterior distributions using the Laplace method.
 - I am also interested in asymptotic approximation of the influence function for data valuation problems.
 
