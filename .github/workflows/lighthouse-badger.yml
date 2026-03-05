@@ -1,2 +1,10 @@
-name: disabled
-on: []
+name: Lighthouse (disabled)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Lighthouse workflow disabled."
