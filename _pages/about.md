@@ -9,11 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>sg4156@columbia.edu</p>
+    
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +21,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fourth-year PhD student at Columbia University, in the department of Statistics. I am very fortunate to be advised by [Prof. Arian Maleki]([url](https://sites.google.com/site/malekiarian/)) at Columbia University and [Prof. Haolei Weng]([url](https://haoleiweng.github.io/)) at Michigan State University. I am interested in high-dimensional statistics in an asymptotic setting. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+-I primarily work on developing the minimax framework for statistical models upto sharp constants and higher order asymptotic expansions. Think of it as an expansion of the expansion of the minimax risk analogous to a Taylor series expansion, where higher order terms provide a more refined approximation. I have worked on this problem for the sparse linear regression model. I am currently working on this direction for the task of Covariance estimation for Gaussian Matrices. I believe that this work will yield new insights into the limits of learning systems and guide the design of reliable algorithms.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- I am interested in asymtotic approximation of posterior distributions using the Laplace method.
+- I am also interested in asymptotic approximation of the influence function for data valuation problems, i.e. setting a price on the utility of a particular dataset in trianing a machine learning model. 
+
+Previously, I previously obtained my B.Tech. in Electrical Engineering at [Indian Institute of Technology Madras]([url](https://www.ee.iitm.ac.in/)) where I worked on Natural Language Processing supervised by Prof. Mitesh Khapra. I also received my MSc. in Data Science at [ETH Zurich]([url](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/data-science.html)) where I worked on identifiable approaches to representation learning supervised by Prof. Bernhard Scholkopf.
+
