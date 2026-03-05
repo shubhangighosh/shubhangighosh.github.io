@@ -277,11 +277,14 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ghosh]
+  first_name: [Shubhangi]
 
+  
   style: apa
   locale: en
+  sort_by: year
+  order: descending
 
   source: /_bibliography/
   bibliography: papers.bib
