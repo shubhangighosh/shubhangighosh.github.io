@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='[#](https://stat.columbia.edu/)'>PhD student in Statistics, Columbia Univeristy</a>. 
 
 profile:
   align: right
