@@ -186,3 +186,39 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+@media (min-width: 768px) {
+
+  .publications ol.bibliography {
+    padding-left: 1.1rem;
+  }
+
+  .publications ol.bibliography li {
+    margin-bottom: 0.35rem;
+  }
+
+  .publications ol.bibliography li .title {
+    font-weight: 600;
+    margin-bottom: 0.05rem;
+  }
+
+  .publications ol.bibliography li .author {
+    font-size: 0.95rem;
+    margin-bottom: 0.05rem;
+  }
+
+  .publications ol.bibliography li .periodical {
+    font-size: 0.95rem;
+    color: #666;
+  }
+
+  .publications ol.bibliography li .links {
+    margin-top: 0.15rem;
+  }
+
+}
+
+.publications h2.bibliography {
+  margin-top: 1.2rem;
+  margin-bottom: 0.4rem;
+}
