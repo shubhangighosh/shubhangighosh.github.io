@@ -9,12 +9,12 @@ nav_order: 3
 ## Invited Talks
 
 <div class="cv-item">
-<span>IIT Bombay — Department of Mathematics (Invited Talk)</span>
+<span>IIT Bombay — Department of Mathematics</span>
 <span class="cv-date">July 2025</span>
 </div>
 
 <div class="cv-item">
-<span>IIT Madras — Department of Electrical Engineering (Invited Talk)</span>
+<span>IIT Madras — Department of Electrical Engineering</span>
 <span class="cv-date">July 2024</span>
 </div>
 
@@ -86,7 +86,7 @@ nav_order: 3
 
 <div class="cv-item">
 <span>Random Matrix Theory Summer School, University of Michigan</span>
-<span class="cv-date">Summer 2024</span>
+<span class="cv-date">June 2024</span>
 </div>
 
 ---
