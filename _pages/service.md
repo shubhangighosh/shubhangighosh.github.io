@@ -54,12 +54,12 @@ nav_order: 4
 
 **Columbia University**
 
-- Introduction to Probability and Statistics — Arian Maleki (Fall 2025)
-- Statistical Inference Theory II — Cynthia Rush (Spring 2024, Spring 2025)
+- Introduction to Probability and Statistics (Undergrad, M.S.) — Arian Maleki (Fall 2025)
+- Statistical Inference Theory II (PhD first year) — Cynthia Rush (Spring 2024, Spring 2025)
 - Probability Theory (M.S.) (Fall 2024)
-- Elementary Stochastic Processes — Mark Brown (Fall 2023)
-- Nonparametric Statistics — Arian Maleki (Spring 2023)
-- Introduction to Statistics (Fall 2022)
+- Elementary Stochastic Processes (Undergrad, M.S.) — Mark Brown (Fall 2023)
+- Nonparametric Statistics (M.S.) — Arian Maleki (Spring 2023)
+- Introduction to Statistics (Undergrad) (Fall 2022)
 
 **ETH Zürich**
 
